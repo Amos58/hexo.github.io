@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>喻家山记</title>
+  
+  <subtitle>我的大学生活</subtitle>
+  <link href="https://ssyphus.top/atom.xml" rel="self"/>
+  
+  <link href="https://ssyphus.top/"/>
+  <updated>2021-01-30T17:11:42.609Z</updated>
+  <id>https://ssyphus.top/</id>
+  
+  <author>
+    <name>Amos</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my first post</title>
+    <link href="https://ssyphus.top/2021/01/31/my-first-post/"/>
+    <id>https://ssyphus.top/2021/01/31/my-first-post/</id>
+    <published>2021-01-30T17:10:08.000Z</published>
+    <updated>2021-01-30T17:11:42.609Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>现在是凌晨1：11，河南省新郑市，我是Amos，这是我的第一篇博客！！！]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;我的第一篇博客&quot;&gt;&lt;a href=&quot;#我的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博客&quot;&gt;&lt;/a&gt;我的第一篇博客&lt;/h1&gt;&lt;p&gt;现在是凌晨1：11，河南省新郑市，我是Amos，这是我的第一篇博客！！！</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
