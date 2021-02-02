@@ -6,7 +6,7 @@
   <link href="https://ssyphus.top/atom.xml" rel="self"/>
   
   <link href="https://ssyphus.top/"/>
-  <updated>2021-02-02T07:27:38.803Z</updated>
+  <updated>2021-02-02T07:59:45.441Z</updated>
   <id>https://ssyphus.top/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++运算符重载</title>
+    <link href="https://ssyphus.top/2021/02/02/C-%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD/"/>
+    <id>https://ssyphus.top/2021/02/02/C-%E8%BF%90%E7%AE%97%E7%AC%A6%E9%87%8D%E8%BD%BD/</id>
+    <published>2021-02-02T07:43:27.000Z</published>
+    <updated>2021-02-02T07:59:45.441Z</updated>
+    
+    <content type="html"><![CDATA[<p>C++中预定义的运算符只能作用于基本的数据类型，而对于用于自定义的数据类型，也需要类似的运算操作。C++提供了运算符重载这一操作赋予已有运算符新的功能。</p><p><strong><em>运算符重载的实质是函数重载</em></strong></p><p>运算符重载同时创建运算符函数实现，与其他函数定义不同的是，运算符重载需要使用关键字operator。</p><h5 id="运算符重载的基本格式为">运算符重载的基本格式为：</h5><p>$ <返回函数类型> operator <运算符符号> (<参数表>){</p><p>​ <函数体></p><p>}</p><p>下面以《算法竞赛入门》中“突击战”一题中的运算符重载为例：</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="class"><span class="keyword">struct</span> <span class="title">Job</span>&#123;</span></span><br><span class="line"><span class="keyword">int</span> j,b;</span><br><span class="line">    <span class="keyword">bool</span> <span class="keyword">operator</span> &lt; (<span class="keyword">const</span> Job&amp; x) <span class="keyword">const</span>&#123; <span class="comment">//const用于保护重载</span></span><br><span class="line"><span class="keyword">return</span> j&gt;x.j;&#125; <span class="comment">//返回函数体</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;
+C++中预定义的运算符只能作用于基本的数据类型，而对于用于自定义的数据类型，也需要类似的运算操作。C++提供了运算符重载这一操作赋予已有运算符新的功能。
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;运算符重载的实质是函数重载&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="--CSP" scheme="https://ssyphus.top/tags/CSP/"/>
+    
+  </entry>
   
   <entry>
     <title>突击战</title>
