@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ssyphus.top/2021/02/07/the-second-day-of-ICM/</loc>
+    
+    <lastmod>2021-02-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ssyphus.top/2021/02/03/%E5%94%AF%E4%B8%80%E8%83%BD%E7%BB%99%E6%88%91%E5%90%AF%E7%A4%BA%E7%9A%84%E6%98%AF%E6%A2%A6/</loc>
     
     <lastmod>2021-02-02</lastmod>
@@ -88,7 +95,7 @@
 
   <url>
     <loc>https://ssyphus.top/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,21 +103,28 @@
   
   <url>
     <loc>https://ssyphus.top/tags/CSP/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ssyphus.top/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</loc>
+    <lastmod>2021-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ssyphus.top/tags/%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ssyphus.top/tags/%E8%AF%97%E8%AF%8D%E6%AD%8C%E8%B5%8B/</loc>
-    <lastmod>2021-02-02</lastmod>
+    <lastmod>2021-02-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
